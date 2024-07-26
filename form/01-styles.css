@@ -648,7 +648,7 @@
   }
 
   /*** FORM ***/
-/* Comment section
+  /* Comment section
     ============================= */
 
     .post-comments{
@@ -660,7 +660,7 @@
         font-variant: small-caps;
     }
     /* Basic form
-    ============================= */
+      ============================= */
 
     form{
         display: flex;
