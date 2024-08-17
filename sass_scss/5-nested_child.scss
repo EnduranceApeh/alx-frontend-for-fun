@@ -1,0 +1,12 @@
+/* Variables */
+$text-color-body: #3D3D3D;
+$text-color-red: #FF0000;
+
+body {
+  color: $text-color-body;
+  .red {
+    &:first-child {
+      color: $text-color-red;
+    }
+  }
+}
